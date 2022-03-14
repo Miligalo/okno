@@ -121,23 +121,25 @@
                 </div>
 
             </div>
-
             <div class="col-md-3 col-lg-3 col-sm-12">
                 <div class="card">
-                    <img src="./img/tonirovka.jpeg" height="200" class="card-img-top" alt="...">
+                    <img src="./img/tonirovka.jpeg" height="227" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h4 class="card-title text-center">Тонирование окон</h4>
                     </div>
                     <div class="card-footer text-center">
                         <button class="btn btn-lg btn-success2 text-center" data-toggle="modal" data-target="#Modal1">Заказать</button>
+
                     </div>
                 </div>
 
             </div>
 
+            
+
             <div class="col-md-3 col-lg-3 col-sm-12">
                 <div class="card">
-                    <img src="./img/regulirovka_okon.jpeg" height="200" class="card-img-top" alt="...">
+                    <img src="./img/regulirovka_okon.jpeg" height="227" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h4 class="card-title text-center">Регулировка окон</h4>
                     </div>
